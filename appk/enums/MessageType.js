@@ -1,0 +1,5 @@
+export const CASE_MESSAGE='Case'
+export const SCORE_MESSAGE='Point'
+export const SYS_MESSAGE='System'
+export const ACADEMIC_MESSAGE='Academic'
+export const RELATION_MESSAGE='Relation'
